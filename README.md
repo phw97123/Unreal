@@ -1,5 +1,17 @@
 # 언리얼 액션 포트폴리오
 
+- 엔진 : Unreal Engine4 4.27.2
+
+- 에디터 : 에디터 : Microsoft Visual Studio Community 2019
+
+- 제작기간 : 2023.01 ~ 2023.03
+  
+- 개발규모 : 1인 개발
+
+## 동영상 
+
+https://youtu.be/BF7vzsPRT1Q
+
 ## 기능 구현 
 
 Targeting, 무기 변경 (검, 활), 무기 콤보 및 무기 스킬 쿨타임, 캐릭터 IK, 플레이어 Dash, 에임 오프셋 등 
