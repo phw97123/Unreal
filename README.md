@@ -10,7 +10,7 @@ Targeting, 무기 변경 (검, 활), 무기 콤보 및 무기 스킬 쿨타임, 
 
 벡터의 외적과 내적을 이용하여 플레이어가 지형의 경사면을 따라 Dash 하는 기능을 구현했습니다.
 
-#### Targetting
+#### Targeting
 
 ![image](https://github.com/phw97123/Unreal/assets/132995834/c43c7693-7aca-4523-9710-7d6bc9e4b329)
 
